@@ -1,3 +1,22 @@
-{
-    "Natflixdata" : []
-}
+ {
+
+    "NetFlixAPI" :[
+   {
+    "Title":"Lakshya (2023) Movie",
+    "Image":"https://i.postimg.cc/0NmBb128/maxresdefault.jpg",
+    "MainCategory":"Movies",
+    "Geans":"Drama",
+    "FileID":"qedw9if2mhg1",
+    "id":1
+    },
+    {  
+     "Title":"Lakshya (2023) Movie",
+    "Image":"https://i.postimg.cc/0NmBb128/maxresdefault.jpg",
+    "MainCategory":"Movies",
+    "Geans":"Drama",
+    "FileID":"qedw9if2mhg1",
+    "id":1
+    },
+    { 
+    ]
+ }
